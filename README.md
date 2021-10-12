@@ -14,6 +14,7 @@ Sample API layout structure to be used as a baseline for other apps
 1. Check out the code
 2. Install requirements
     ```
+    pip install pipenv
     pipenv install
     ```
 3. Start the server with:
